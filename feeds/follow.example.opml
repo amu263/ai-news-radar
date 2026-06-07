@@ -50,13 +50,6 @@
         htmlUrl="https://www.wired.com/tag/artificial-intelligence/"
       />
       <outline
-        text="InfoQ CN"
-        title="InfoQ CN"
-        type="rss"
-        xmlUrl="https://www.infoq.cn/feed"
-        htmlUrl="https://www.infoq.cn/"
-      />
-      <outline
         text="NVIDIA Generative AI Blog"
         title="NVIDIA Generative AI Blog"
         type="rss"
